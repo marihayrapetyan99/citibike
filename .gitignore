@@ -221,3 +221,6 @@ __marimo__/
 # Data folders
 postgis_data/
 data/
+
+# docker-compose 
+docker-compose.yml
