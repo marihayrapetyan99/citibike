@@ -224,3 +224,5 @@ data/
 
 #docker-compose 
 docker-compose.yaml
+
+.idea/
