@@ -1,4 +1,4 @@
-# Citi Bike Analytics Platform
+# Citibike Analytics Platform
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ This project explores questions such as:
 
 ## Data Sources
 
-### Citi Bike Trip Data
+### Citibike Trip Data
 
 Monthly Citi Bike trip datasets were collected for Jersey City:
 
