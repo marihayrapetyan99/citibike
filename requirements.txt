@@ -1,7 +1,17 @@
+# Data Processing
 pandas
+numpy
+
+# Geospatial Analysis
 geopandas
 folium
+
+# Visualization
 plotly
 matplotlib
-ipykernel
+
+# API Requests
 requests
+
+# Jupyter Environment
+ipykernel
