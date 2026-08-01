@@ -10,7 +10,7 @@ The project covers the complete analytics workflow:
 
 **Data Collection → Data Cleaning → ETL Pipeline → Database Design → Spatial Analysis → Dashboard Development**
 
-![](imgs\End-to-end-project.png)
+![](imgs/End-to-end-project.png)
 
 ---
 
@@ -136,7 +136,7 @@ Example:
 /images/geography_analysis.png
 ```
 
-[Project Image](imgs\End-to-end-project.png)
+[Project Image](imgs/End-to-end-project.png)
 
 ---
 

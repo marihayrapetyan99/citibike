@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+#
+citibike_dashboard.twbx
+
+
 # C extensions
 *.so
 
@@ -226,3 +231,4 @@ data/
 docker-compose.yaml
 
 .idea/
+
