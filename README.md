@@ -131,12 +131,11 @@ The interactive dashboard includes:
 
 Example:
 
-```
-/images/dashboard_overview.png
-/images/geography_analysis.png
-```
+[Daily Rides vs Precipitation](imgs/Daily-Rides-vs-Precipitation.png)
 
-[Project Image](imgs/End-to-end-project.png)
+[Number of Citibike Rides per Month](imgs/Number-of-Citi-Bike-Rides-per-Month.png)
+
+[Daily Rides vs Average Temperature](imgs/Daily-Rides-vs-Average-Temperature.png)
 
 ---
 
