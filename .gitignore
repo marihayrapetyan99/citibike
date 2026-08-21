@@ -3,9 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-
 #
-*.citibike_dashboard.twbx
+citibike_dashboard.twbx
 
 
 # C extensions
