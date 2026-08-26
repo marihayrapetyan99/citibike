@@ -77,7 +77,7 @@ Created an analytical database structure:
 | `jersey_city`               | Ride-level Citi Bike data  |
 | `jersey_weather`            | Daily weather information  |
 | `jersey_city_neighborhoods` | Neighborhood polygon data  |
-| `jc_2025_stations`          | Station spatial data       |
+| `jc_stations`               | Station spatial data       |
 
 PostGIS was used for spatial analysis, including:
 
